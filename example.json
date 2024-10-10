@@ -1,0 +1,51 @@
+{
+  "kind": "youtube#playlistItem",
+  "etag": "Q31ABhmr3CU-Hoir2vb4IDEDD7E",
+  "id": "UExfWHh1WnFOMHhWRDBvcC1RREVneVhGQTRmUlBDaHZrbC5ENjI1QUI0MDI5NEQzODFE",
+  "snippet": {
+    "publishedAt": "2022-10-19T02:10:29Z",
+    "channelId": "UCrmHQdRbYKFsB602Duho4Tw",
+    "title": "Lecture 48.1 - Track Zone Project Breakdown | Component Tree and Clock Logic | Full-stack Army",
+    "description": "Lecture 48.1 - Track Zone Project Breakdown | Component Tree and Clock Logic | Full-stack Army\n\nআমাদের সাথে যোগাযোগ করুনঃ  \n---------------------------------------------------\nEmail: support@stacklearner.com\nফেসবুক পেজঃ https://fb.me/stacklearner \nফেসবুক গ্রুপঃ https://fb.com/groups/stacklearner \nLinkedIn পেজঃ https://linkedin.com/company/stacklearner \nTwitter: https://twitter.com/stacklearner\nInstagram: https://instagram.com/stacklearner",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/UfoxyEYlIVg/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/UfoxyEYlIVg/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/UfoxyEYlIVg/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/UfoxyEYlIVg/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/UfoxyEYlIVg/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Stack Learner",
+    "playlistId": "PL_XxuZqN0xVD0op-QDEgyXFA4fRPChvkl",
+    "position": 50,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "UfoxyEYlIVg"
+    },
+    "videoOwnerChannelTitle": "Stack Learner",
+    "videoOwnerChannelId": "UCrmHQdRbYKFsB602Duho4Tw"
+  },
+  "contentDetails": {
+    "videoId": "UfoxyEYlIVg",
+    "videoPublishedAt": "2022-10-19T04:00:09Z"
+  }
+}
